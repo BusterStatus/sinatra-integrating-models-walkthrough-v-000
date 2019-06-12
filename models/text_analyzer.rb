@@ -38,6 +38,6 @@ class TextAnalyzer
       end
     end
  
-    biggest.keys.flatten
+    biggest
   end
 end
