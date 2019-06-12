@@ -38,6 +38,6 @@ class TextAnalyzer
       end
     end
  
-    puts biggest.keys
+    biggest.keys
   end
 end
